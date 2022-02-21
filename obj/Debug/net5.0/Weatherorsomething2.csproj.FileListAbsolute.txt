@@ -1,0 +1,15 @@
+/Users/emilianogomez/Documents/GitHub/Weatherorsomething2/bin/Debug/net5.0/Weatherorsomething2.deps.json
+/Users/emilianogomez/Documents/GitHub/Weatherorsomething2/bin/Debug/net5.0/Weatherorsomething2.runtimeconfig.json
+/Users/emilianogomez/Documents/GitHub/Weatherorsomething2/bin/Debug/net5.0/Weatherorsomething2.runtimeconfig.dev.json
+/Users/emilianogomez/Documents/GitHub/Weatherorsomething2/bin/Debug/net5.0/Weatherorsomething2.dll
+/Users/emilianogomez/Documents/GitHub/Weatherorsomething2/bin/Debug/net5.0/ref/Weatherorsomething2.dll
+/Users/emilianogomez/Documents/GitHub/Weatherorsomething2/bin/Debug/net5.0/Weatherorsomething2.pdb
+/Users/emilianogomez/Documents/GitHub/Weatherorsomething2/obj/Debug/net5.0/Weatherorsomething2.csproj.AssemblyReference.cache
+/Users/emilianogomez/Documents/GitHub/Weatherorsomething2/obj/Debug/net5.0/Weatherorsomething2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emilianogomez/Documents/GitHub/Weatherorsomething2/obj/Debug/net5.0/Weatherorsomething2.AssemblyInfoInputs.cache
+/Users/emilianogomez/Documents/GitHub/Weatherorsomething2/obj/Debug/net5.0/Weatherorsomething2.AssemblyInfo.cs
+/Users/emilianogomez/Documents/GitHub/Weatherorsomething2/obj/Debug/net5.0/Weatherorsomething2.csproj.CoreCompileInputs.cache
+/Users/emilianogomez/Documents/GitHub/Weatherorsomething2/obj/Debug/net5.0/Weatherorsomething2.dll
+/Users/emilianogomez/Documents/GitHub/Weatherorsomething2/obj/Debug/net5.0/ref/Weatherorsomething2.dll
+/Users/emilianogomez/Documents/GitHub/Weatherorsomething2/obj/Debug/net5.0/Weatherorsomething2.pdb
+/Users/emilianogomez/Documents/GitHub/Weatherorsomething2/obj/Debug/net5.0/Weatherorsomething2.genruntimeconfig.cache
