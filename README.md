@@ -22,7 +22,7 @@ the weather is outputted and shown to the user.
 ### Comparison y/n
 This will prompt the user to say if they want to compare weather between places, and how many places
 
-photo will go here
+![Image Text](2.png)
 
 1. Asks user if they want a comparison of weather
 2. If they say yes ask how many places
@@ -34,7 +34,7 @@ photo will go here
 
 This method should be able to take in the weather for the day and recomend what to wear.
 
-photo will go here
+![Image Text](1.png)
 
 1. Take in the weather using a list
 2. then assign the weather to see what clothes to wear(got to work on this one)
